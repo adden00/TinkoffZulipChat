@@ -1,0 +1,96 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'kotlin-parcelize'
+    id 'org.jetbrains.kotlin.plugin.serialization' version '1.5.21'
+    id 'kotlin-kapt'
+
+}
+
+android {
+    namespace 'com.addenisov00.courseproject'
+    compileSdk versions.compileSdk
+
+    defaultConfig {
+        applicationId "com.addenisov00.courseproject"
+        minSdk versions.minSdk
+        targetSdk versions.targetSdk
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunnerArguments clearPackageData: 'true'
+
+
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments += ["room.schemaLocation": "$projectDir/schemas".toString()]
+            }
+        }
+
+    }
+    testOptions {
+        execution 'ANDROIDX_TEST_ORCHESTRATOR'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+
+    implementation deps.facebookShimmer
+    implementation deps.constraintLayout
+    implementation deps.core_ktx
+    implementation deps.appcompat
+    implementation deps.material
+    implementation deps.fragment_ktx
+    implementation deps.navigation_fragment
+    implementation deps.navigation_ui
+    implementation deps.retrofit
+    implementation deps.glide
+    implementation deps.swipeToRefresh
+    annotationProcessor deps.glideAnnotationProcessor
+    implementation deps.elmsilie_core
+    implementation deps.elmsilie_android
+    implementation deps.elmsilie_coroutines
+    implementation deps.kotlinx_serialization
+    implementation deps.okHttp
+    implementation deps.okhttpLogging
+    implementation deps.retrofitSerialize
+    implementation deps.dagger
+    kapt deps.daggetKapt
+    implementation deps.room
+    implementation deps.roomKtx
+    kapt deps.roomKapt
+
+    testImplementation deps.junit
+    testImplementation deps.arch_core
+    testImplementation deps.coroutines_test
+
+    androidTestImplementation deps.android_junit
+    androidTestImplementation deps.kaspresso
+    androidTestImplementation deps.okhttp3_mockwebserver
+
+    androidTestImplementation deps.test_runner
+    androidTestUtil deps.orchestrator
+    debugImplementation deps.fragment_testing
+    debugImplementation deps.test_monitor
+
+
+}

@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b6658bb-8ee8-40f0-b625-c3f3220025d1" name="Changes" comment="code style fixes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\adden\.android\avd\Nexus_6_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Course Project" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Kotlin Sealed Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="final_project" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2MdRYraYPNlOGuPMhY4vzwNC1k9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "PROJECT_TRUSTED_KEY": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "android-custom-viewC:/Users/adden/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED": "RecyclerView",
+    "android-custom-viewC:/Users/adden/.gradle/caches/modules-2/files-2.1/androidx.swiperefreshlayout/swiperefreshlayout/1.1.0/72a6b0cee5591c000ac32d8f9686ced8675f3e49/swiperefreshlayout-1.1.0-sources.jar!/androidx/swiperefreshlayout/widget/SwipeRefreshLayout.java_SELECTED": "SwipeRefreshLayout",
+    "android-custom-viewC:/Users/adden/.gradle/caches/modules-2/files-2.1/com.facebook.shimmer/shimmer/0.5.0/c72bd010f27bca0db2557c0e37c54f35333a4690/shimmer-0.5.0-sources.jar!/com/facebook/shimmer/ShimmerFrameLayout.java_SELECTED": "ShimmerFrameLayout",
+    "android-custom-viewC:/data (D)/Tinkoff/tfs-android-spring-2023/CourseProject/app/src/main/java/com/addenisov00/courseproject/custom_views/ReactionFlexBox.kt_SELECTED": "ReactionFlexBox",
+    "android-custom-viewC:/data (D)/Tinkoff/tfs-android-spring-2023/CourseProject/app/src/main/java/com/addenisov00/courseproject/custom_views/ReactionView.kt_SELECTED": "ReactionView",
+    "android-custom-viewC:/data (D)/Tinkoff/tfs-android-spring-2023/CourseProject/app/src/main/java/com/addenisov00/courseproject/presentation/custom_views/MessageViewGroup.kt_SELECTED": "MessageViewGroup",
+    "android-custom-viewC:/data (D)/Tinkoff/tfs-android-spring-2023/CourseProject/app/src/main/java/com/addenisov00/courseproject/presentation/custom_views/ReactionFlexBox.kt_SELECTED": "ReactionFlexBox",
+    "android-custom-viewC:/data (D)/Tinkoff/tfs-android-spring-2023/CourseProject/app/src/main/java/com/addenisov00/courseproject/presentation/custom_views/ReactionView.kt_SELECTED": "ReactionView",
+    "cidr.known.project.marker": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "last_directory_selection": "C:/data (D)/Tinkoff/tfs-android-spring-2023/CourseProject/app/src/test/java/com/addenisov00/courseproject/data/repository",
+    "last_opened_file_path": "C:/Users/adden/Downloads/TinkoffZulipChat-main",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  },
+  "keyToStringList": {
+    "android-custom-viewC:/Users/adden/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_RecyclerView_DIMENSIONS": [
+      "1080",
+      "1920"
+    ],
+    "com.android.tools.idea.sqlite.queryhistory": [
+      "SELECT * FROM MESSAGES WHERE is_my LIKE true"
+    ]
+  }
+}]]></component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\data (D)\Tinkoff\tfs-android-spring-2023\CourseProject\app\src\androidTest\assets" />
+      <recent name="C:\data (D)\Tinkoff\tfs-android-spring-2023\CourseProject\app\src\androidTest" />
+      <recent name="C:\data (D)\Tinkoff\tfs-android-spring-2023\CourseProject\app\src\debug" />
+      <recent name="C:\data (D)\Tinkoff\tfs-android-spring-2023\CourseProject\app\src\debug\res" />
+      <recent name="C:\data (D)\Tinkoff\tfs-android-spring-2023\CourseProject\app\src\main\res\layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\data (D)\Tinkoff\tfs-android-spring-2023\CourseProject\app\src\debug\res\xml" />
+      <recent name="C:\data (D)\Tinkoff\tfs-android-spring-2023\CourseProject\app\src\main\java\com\addenisov00\courseproject\data\network\users_response" />
+      <recent name="C:\data (D)\Tinkoff\tfs-android-spring-2023\CourseProject\app\src\main\res\drawable" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.addenisov00.courseproject.common.utils" />
+      <recent name="com.addenisov00.courseproject.presentation.messenger.utills" />
+      <recent name="com.addenisov00.courseproject.presentation.messenger.elm" />
+      <recent name="com.addenisov00.courseproject.data.local.dao" />
+      <recent name="com.addenisov00.courseproject.presentation.messenger.models" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.addenisov00.courseproject.data.repository" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.addenisov00.courseproject" />
+      <recent name="com.addenisov00.courseproject.screen" />
+      <recent name="com.addenisov00.courseproject.data" />
+      <recent name="com.addenisov00.courseproject.data.local.entities" />
+      <recent name="com.addenisov00.courseproject.data.local.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Course_Project.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagesTask" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="Course_Project.app.androidTest" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.addenisov00.courseproject.MessagesTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_NAME_REGEX" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="RETENTION_ENABLED" value="No" />
+      <option name="RETENTION_MAX_SNAPSHOTS" value="2" />
+      <option name="RETENTION_COMPRESS_SNAPSHOTS" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="show_messages_from_test_topic_by_default()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="Course_Project.app.androidTest" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="show_messages_from_test_topic_by_default" />
+      <option name="CLASS_NAME" value="com.addenisov00.courseproject.MessagesTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_NAME_REGEX" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="RETENTION_ENABLED" value="No" />
+      <option name="RETENTION_MAX_SNAPSHOTS" value="2" />
+      <option name="RETENTION_COMPRESS_SNAPSHOTS" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagesRepositoryImplTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.addenisov00.courseproject.data.repository.MessagesRepositoryImplTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MessagesRepositoryImplTest.getMessagesFromCache from empty db returns empty flow list" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.addenisov00.courseproject.data.repository.MessagesRepositoryImplTest.getMessagesFromCache from empty db returns empty flow list&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MessagesRepositoryImplTest.getMessagesWithFilter for correct server response returns messages list" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.addenisov00.courseproject.data.repository.MessagesRepositoryImplTest.getMessagesWithFilter for correct server response returns messages list&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MessagesRepositoryImplTest.getMessagesWithFilter for correct server response returns messages list" />
+        <item itemvalue="Gradle.MessagesRepositoryImplTest.getMessagesFromCache from empty db returns empty flow list" />
+        <item itemvalue="Gradle.MessagesRepositoryImplTest" />
+        <item itemvalue="Android Instrumented Tests.show_messages_from_test_topic_by_default()" />
+        <item itemvalue="Android Instrumented Tests.MessagesTask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b6658bb-8ee8-40f0-b625-c3f3220025d1" name="Changes" comment="" />
+      <created>1678095523507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678095523507</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fixed binding">
+      <created>1679939696096</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679939696096</updated>
+    </task>
+    <task id="LOCAL-00028" summary="made hw_5">
+      <created>1680036649236</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1680036649236</updated>
+    </task>
+    <task id="LOCAL-00029" summary="fixed some code style">
+      <created>1680182745665</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1680182745665</updated>
+    </task>
+    <task id="LOCAL-00030" summary="added working with network: downloading channels, topics, messages with reactions, people list, and profiles">
+      <created>1680591276829</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1680591276829</updated>
+    </task>
+    <task id="LOCAL-00031" summary="made hw_6 (added sending messages, adding/deleting reaction, fixed people screen)">
+      <created>1680641174224</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1680641174224</updated>
+    </task>
+    <task id="LOCAL-00032" summary="hw_5 fixes after review">
+      <created>1680694835962</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1680694835962</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fixed adding new reaction from bottomSheetDialog">
+      <created>1680699910924</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1680699910924</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fixed person status checking, added sorting by timestamp">
+      <created>1680858724540</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1680858724540</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fixed search">
+      <created>1680860988427</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1680860988427</updated>
+    </task>
+    <task id="LOCAL-00036" summary="moved business logic of loading people info to useCases, added generics to the screenState, updated channel shimmer">
+      <created>1680988689823</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1680988689823</updated>
+    </task>
+    <task id="LOCAL-00037" summary="write people and profile screens with elm arch">
+      <created>1681241695960</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1681241695960</updated>
+    </task>
+    <task id="LOCAL-00038" summary="write channels screen with elm arch, but without topics and search">
+      <created>1681500075984</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1681500075984</updated>
+    </task>
+    <task id="LOCAL-00039" summary="replaced moshi to kotlin serialization, fixed network DTOs">
+      <created>1681729856012</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1681729856012</updated>
+    </task>
+    <task id="LOCAL-00040" summary="fixes after review">
+      <created>1681730083969</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1681730083969</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added Dagger to channels and People screens, providing all network work with dagger">
+      <created>1681813196288</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1681813196288</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fixed search and open topics with elm arch">
+      <created>1681844748318</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1681844748318</updated>
+    </task>
+    <task id="LOCAL-00043" summary="added Dagger to Message screen">
+      <created>1681993869836</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1681993869836</updated>
+    </task>
+    <task id="LOCAL-00044" summary="cleaned code">
+      <created>1681994291046</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1681994291046</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fixed crash">
+      <created>1681994727995</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1681994727995</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fixes">
+      <created>1682008988165</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1682008988165</updated>
+    </task>
+    <task id="LOCAL-00047" summary="added channels search">
+      <created>1682063077050</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1682063077050</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fixed problems with messenger">
+      <created>1682072569776</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1682072569776</updated>
+    </task>
+    <task id="LOCAL-00049" summary="added caching with room for channels screen, added effects for error, show/hide loading">
+      <created>1682455658167</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1682455658167</updated>
+    </task>
+    <task id="LOCAL-00050" summary="fixed">
+      <created>1682456745655</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1682456745655</updated>
+    </task>
+    <task id="LOCAL-00051" summary="fixed people screen">
+      <created>1682588562932</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1682588562933</updated>
+    </task>
+    <task id="LOCAL-00052" summary="added topics caching">
+      <created>1682600944830</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1682600944830</updated>
+    </task>
+    <task id="LOCAL-00053" summary="code style fixes">
+      <created>1682674650842</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1682674650843</updated>
+    </task>
+    <task id="LOCAL-00054" summary="added messages dao">
+      <created>1682690789020</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1682690789020</updated>
+    </task>
+    <task id="LOCAL-00055" summary="rewrite messages to elm arch, added pagination and caching">
+      <created>1682715652151</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1682715652151</updated>
+    </task>
+    <task id="LOCAL-00056" summary="added unit tests to messages repository, and ui test to message fragment">
+      <created>1683060367467</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1683060367467</updated>
+    </task>
+    <task id="LOCAL-00057" summary="fixed ui test">
+      <created>1683064027351</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1683064027351</updated>
+    </task>
+    <task id="LOCAL-00058" summary="added mock server">
+      <created>1683115816061</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1683115816061</updated>
+    </task>
+    <task id="LOCAL-00059" summary="added plus in flexbox to add new reaction">
+      <created>1683190282315</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1683190282316</updated>
+    </task>
+    <task id="LOCAL-00060" summary="added creation new channel: dialog, server request, float button">
+      <created>1683299951730</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1683299951730</updated>
+    </task>
+    <task id="LOCAL-00061" summary="added topics loader">
+      <created>1683301977357</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1683301977357</updated>
+    </task>
+    <task id="LOCAL-00062" summary="added messenger screen with all topics. On channel click opens messages from all topics, on arrow click -- topics expand as before">
+      <created>1683325387861</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1683325387861</updated>
+    </task>
+    <task id="LOCAL-00063" summary="added bottom menu in bottom sheet dialog">
+      <created>1683373981812</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1683373981812</updated>
+    </task>
+    <task id="LOCAL-00064" summary="added deleting message">
+      <created>1683379309700</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1683379309700</updated>
+    </task>
+    <task id="LOCAL-00065" summary="added editing message, fixed sending">
+      <created>1683425264894</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1683425264894</updated>
+    </task>
+    <task id="LOCAL-00066" summary="added copy message, fixed rcview height, added picture sending with photo picker, added showing pictures in message">
+      <created>1684258518455</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1684258518455</updated>
+    </task>
+    <task id="LOCAL-00067" summary="fixed scroll down, fixed editing error, rewrite send button and edit text behaviour to effects">
+      <created>1684329588688</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1684329588689</updated>
+    </task>
+    <task id="LOCAL-00068" summary="fixed pagination scroll behaviour">
+      <created>1684338277353</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1684338277353</updated>
+    </task>
+    <task id="LOCAL-00069" summary="fixed writing to stream">
+      <created>1684339697706</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1684339697707</updated>
+    </task>
+    <task id="LOCAL-00070" summary="fixed writing to stream">
+      <created>1684339712982</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1684339712982</updated>
+    </task>
+    <task id="LOCAL-00071" summary="fixed updating after channel created, fixed cursor while message is editing">
+      <created>1684342238398</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1684342238398</updated>
+    </task>
+    <task id="LOCAL-00072" summary="added scroll down floating button">
+      <created>1684349098567</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1684349098567</updated>
+    </task>
+    <task id="LOCAL-00073" summary="fixed scroll down floating button">
+      <created>1684356834847</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1684356834847</updated>
+    </task>
+    <task id="LOCAL-00074" summary="fixed scroll down floating button">
+      <created>1684357113463</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1684357113463</updated>
+    </task>
+    <task id="LOCAL-00075" summary="code style fixes">
+      <created>1684358715240</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1684358715240</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/app" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="added caching with room for channels screen, added effects for error, show/hide loading" />
+    <MESSAGE value="fixed" />
+    <MESSAGE value="fixed people screen" />
+    <MESSAGE value="added topics caching" />
+    <MESSAGE value="code style" />
+    <MESSAGE value="added messages dao" />
+    <MESSAGE value="rewrite messages to elm arch, added pagination and caching" />
+    <MESSAGE value="added unit tests to messages repository, and ui test to message fragment" />
+    <MESSAGE value="fixed ui test" />
+    <MESSAGE value="added mock server" />
+    <MESSAGE value="added plus in flexbox to add new reaction" />
+    <MESSAGE value="added creation new channel: dialog, server request, float button" />
+    <MESSAGE value="added topics loader" />
+    <MESSAGE value="added messenger screen with all topics. On channel click opens messages from all topics, on arrow click -- topics expand as before" />
+    <MESSAGE value="added bottom menu in bottom sheet dialog" />
+    <MESSAGE value="added deleting message" />
+    <MESSAGE value="added editing message, fixed sending" />
+    <MESSAGE value="added copy message, fixed rcview height, added picture sending with photo picker, added showing pictures in message" />
+    <MESSAGE value="fixed scroll down, fixed editing error, rewrite send button and edit text behaviour to effects" />
+    <MESSAGE value="fixed pagination scroll behaviour" />
+    <MESSAGE value="fixed writing to stream" />
+    <MESSAGE value="fixed updating after channel created, fixed cursor while message is editing" />
+    <MESSAGE value="added scroll down floating button" />
+    <MESSAGE value="fixed scroll down floating button" />
+    <MESSAGE value="code style fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="code style fixes" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.addenisov00.courseproject.presentation.messenger.MessengerFragment" memberName="adapter$delegate" />
+        <PinnedItemInfo parentTag="com.addenisov00.courseproject.presentation.messenger.MessengerFragment" memberName="adapter" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

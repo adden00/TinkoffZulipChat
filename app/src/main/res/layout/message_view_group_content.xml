@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:parentTag="com.addenisov00.courseproject.presentation.custom_views.MessageViewGroup">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/imAvatar"
+        android:layout_width="37dp"
+        android:layout_height="37dp"
+        app:cardCornerRadius="999dp">
+
+        <ImageView
+            android:id="@+id/message_avatar_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/avatar"
+            android:contentDescription="@string/imageavatar" />
+
+    </androidx.cardview.widget.CardView>
+
+
+    <LinearLayout
+        android:id="@+id/cardMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/bg_my_message"
+        android:orientation="vertical"
+        android:paddingStart="12dp"
+        android:paddingTop="8dp"
+        android:paddingEnd="12dp"
+        android:paddingBottom="12dp">
+
+        <TextView
+            android:id="@+id/tvMessageUserName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/darrel_steward"
+            android:textColor="@color/message_name_text" />
+
+        <TextView
+            android:id="@+id/tvMessageContent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lorem_ipsum"
+            android:textColor="@color/message_text" />
+
+        <androidx.cardview.widget.CardView
+            app:cardCornerRadius="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/transparent"
+            app:cardElevation="0dp">
+
+            <ImageView
+                android:id="@+id/imPicture"
+                android:layout_height="200dp"
+                android:layout_width="200dp"
+                android:visibility="gone" />
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+
+    <com.addenisov00.courseproject.presentation.custom_views.ReactionFlexBox
+        android:id="@+id/reactionBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</merge>

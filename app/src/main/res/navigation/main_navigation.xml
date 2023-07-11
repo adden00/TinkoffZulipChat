@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/messengerFragment"
+        android:name="com.addenisov00.courseproject.presentation.messenger.MessengerFragment"
+        android:label="fragment_messenger"
+        tools:layout="@layout/fragment_messenger">
+        <action
+            android:id="@+id/action_messengerFragment_to_emojiBottomSheet"
+            app:destination="@id/emojiBottomSheet" />
+    </fragment>
+    <dialog
+        android:id="@+id/emojiBottomSheet"
+        android:name="com.addenisov00.courseproject.presentation.messenger.EmojiBottomSheet"
+        android:label="bottom_sheet_dialog_reaction"
+        tools:layout="@layout/bottom_sheet_dialog_reaction">
+        <action
+            android:id="@+id/action_emojiBottomSheet_to_messengerFragment"
+            app:destination="@id/messengerFragment"
+            app:popUpTo="@id/mainFragment"
+            app:popUpToInclusive="false" />
+    </dialog>
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.addenisov00.courseproject.presentation.main_screen.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main">
+        <action
+            android:id="@+id/action_mainFragment_to_messengerFragment"
+            app:destination="@id/messengerFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_profileFragment2"
+            app:destination="@id/profileFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment2"
+        android:name="com.addenisov00.courseproject.presentation.main_screen.people.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>
